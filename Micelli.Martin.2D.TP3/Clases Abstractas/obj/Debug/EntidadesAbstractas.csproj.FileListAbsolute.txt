@@ -1,0 +1,9 @@
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

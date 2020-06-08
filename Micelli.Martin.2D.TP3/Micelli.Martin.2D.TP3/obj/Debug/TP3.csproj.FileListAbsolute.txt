@@ -1,0 +1,16 @@
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Micelli.Martin.2D.TP3.exe.config
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Micelli.Martin.2D.TP3.exe
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Micelli.Martin.2D.TP3.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\obj\Debug\Micelli.Martin.2D.TP3.exe
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\obj\Debug\Micelli.Martin.2D.TP3.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP3\Micelli.Martin.2D.TP3\obj\Debug\TP3.csproj.CopyComplete
