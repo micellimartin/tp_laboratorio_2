@@ -1,0 +1,13 @@
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\bin\Debug\Micelli.Martin.2D.TP4.exe.config
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\bin\Debug\Micelli.Martin.2D.TP4.exe
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\bin\Debug\Micelli.Martin.2D.TP4.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\Micelli.Martin._2D.TP4.Properties.Resources.resources
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\Micelli.Martin.2D.TP4.exe
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\Micelli.Martin.2D.TP4.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\Micelli.Martin._2D.TP4.FrmPpal.resources
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\bin\Debug\Entidades.dll
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\bin\Debug\Entidades.pdb
+C:\Users\micel\Desktop\Micelli.Martin.2D.TP4\Micelli.Martin.2D.TP4\obj\Debug\MainCorreo.csproj.CopyComplete
